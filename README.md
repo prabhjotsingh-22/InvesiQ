@@ -1,4 +1,4 @@
-# Financial Report PDF Analyzer
+# InvesiQ - Investment intelligence, redefined
 
 This repository contains two implementations of a financial report analyzer:
 1. Basic Analyzer (using Google's Gemini)
